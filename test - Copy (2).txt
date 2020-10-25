@@ -1,3 +1,9 @@
 this is all wrong
 
+<<<<<<< HEAD
 new testing here
+=======
+new testing here
+
+Maggie's test!
+>>>>>>> 42bfa31bfe5b8d6b89923a84b4fa3dd251ea4d9c
