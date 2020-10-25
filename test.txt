@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-this is all right
-=======
 this is all RIGHT
->>>>>>> 42bfa31bfe5b8d6b89923a84b4fa3dd251ea4d9c
 
 new testing here
